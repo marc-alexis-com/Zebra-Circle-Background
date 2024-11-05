@@ -2,7 +2,8 @@
 
 A Python script that adds a radial striped background to a transparent PNG image. The script allows you to create either multicolored stripes or zebra stripes with two colors, with a configurable distance between each stripe. It is ideal for customizing your images with dynamic and attractive visual effects.
 
-AJOUTER L'IMAGE SHOWCASE
+![showcase](https://github.com/user-attachments/assets/fe1e50f0-843d-4ab1-9625-1eb648a8cf12)
+
 
 ## Features
 
@@ -72,7 +73,7 @@ AJOUTER L'IMAGE SHOWCASE
 
 ## Other examples
 
-INCLURE ZEBRA 1, 2 ET 3
+![examples](https://github.com/user-attachments/assets/71f9bb13-eda9-4c92-bcc5-e9dbc4ad0da2)
 
 ## License
 
